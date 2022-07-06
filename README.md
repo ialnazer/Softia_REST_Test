@@ -28,7 +28,7 @@ Type the following instructions in your bash:
 
 - npm install
 
-- node server.js, now the server is listening on localhost:8000
+- node server.js, now the server is listening on Port 8000
 
 
 **3- Run the Web Application:**
