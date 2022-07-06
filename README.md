@@ -24,13 +24,11 @@ Follow these instructions:
 
 - Type the following instructions in your bash:
 
+` cd YourPC/PathToTheClonedProject/Code/Softia_REST_Backend`
 
-`code`
-- cd YourPC/PathToTheClonedProject/Code/Softia_REST_Backend
+`npm install`
 
-- npm install
-`code`
-- open the 
+- open the Code/Softia_REST_Backend/congif/db.config.js file and set your machine name instead of "DESKTOP-TPNAAHT" in the server field
 
 - node server.js, now the server is listening on Port 8000
 
