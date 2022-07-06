@@ -24,15 +24,15 @@ Follow these instructions:
 
 - Type the following instructions in your bash:
 
-`cd YourPC/PathToTheClonedProject/Code/Softia_REST_Backend`
+  `cd YourPC/PathToTheClonedProject/Code/Softia_REST_Backend`
 
-`npm install`
+  `npm install`
 
-- Set up the config file by opening the Code/Softia_REST_Backend/config/db.config.js file and typing your machine name instead of "DESKTOP-TPNAAHT" in the server field that ends with '\\SQLEXPRESS'
+- Set up the config file: open the Code/Softia_REST_Backend/config/db.config.js file and put your machine name instead of "DESKTOP-TPNAAHT" in the server field that ends with '\\SQLEXPRESS'
 
 - Again from the bash:
 
-`node server.js`
+  `node server.js`
 
 Now the server is listening on Port 8000
 
