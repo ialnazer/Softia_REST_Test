@@ -28,7 +28,7 @@ Follow these instructions:
 
   `npm install`
 
-- Set up the config file: open the Code/Softia_REST_Backend/config/db.config.js file and put your machine name instead of "DESKTOP-TPNAAHT" in the server field that ends with '\\SQLEXPRESS'
+- Set up the config file: open the Code/Softia_REST_Backend/config/db.config.js file and put your machine name instead of "DESKTOP-TPNAAHT" in the server field that should end with '\\\\SQLEXPRESS'
 
 - Again from the bash:
 
