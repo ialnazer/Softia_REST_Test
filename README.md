@@ -36,7 +36,7 @@ Follow these instructions:
 
 Now the server is listening on Port 8000
 
-**3- Run the Web Application:**
+**3- Run the frontend Web Application:**
 
 - Type the following instructions in another bash:
 
