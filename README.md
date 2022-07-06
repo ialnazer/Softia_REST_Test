@@ -39,4 +39,4 @@ Type the following instructions in another bash:
 
 - npm install
 
-- npm start, now the app is served on localhost:3000
+- npm start, now the app is served on **localhost:3000**
