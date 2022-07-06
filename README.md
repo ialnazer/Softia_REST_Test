@@ -38,12 +38,12 @@ Now the server is listening on Port 8000
 
 **3- Run the Web Application:**
 
-Type the following instructions in another bash:
+- Type the following instructions in another bash:
 
-- cd YourPC/PathToTheClonedProject/Code/Softia_REST_Frontend/formation-plus
+  `cd YourPC/PathToTheClonedProject/Code/Softia_REST_Frontend/formation-plus`
 
-- npm install
+  `npm install`
 
-- npm start
+  `npm start`
 
 Now the app is served on **localhost:3000**
