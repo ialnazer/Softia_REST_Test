@@ -8,7 +8,7 @@ To connect the machine to the database files, follow these instructions:
 
 - Install [Microsoft SQL Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-- Copy or cut and paste both the .mdf and .ldf database files in to the MS SQL Server path location on your system: ThisPC/C:/Program Files/Microsoft SQL Server/YourSQLExpressServerName/MSSQL/DATA
+- Copy or cut and paste both the .mdf and .ldf database files in to the MS SQL Server path location on your system: YourPC/C:/Program Files/Microsoft SQL Server/YourSQLExpressServerName/MSSQL/DATA
 
 - Open SQL Server Managment Studio, it will suggest a connection to the SQL Express Server with Windows Authentication, click connect
 
@@ -20,16 +20,16 @@ To connect the machine to the database files, follow these instructions:
 
 To run the back-end server, run these instructions from your bash:
 
-- cd yourmachine/Code/Softia_REST_Backend
+- cd YourPC/PathToTheClonedProject/Code/Softia_REST_Backend
 
 - npm install
 
 - node server.js, now the server is listening on localhost:8000
 
 
-To access the Web Application, run these instructions from your bash:
+To access the Web Application, run these instructions from your another bash:
 
-- cd yourmachine/Code/Softia_REST_Frontend/formation-plus
+- cd YourPC/PathToTheClonedProject/Code/Softia_REST_Frontend/formation-plus
 
 - npm install
 
