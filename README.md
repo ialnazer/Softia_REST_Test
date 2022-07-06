@@ -22,11 +22,15 @@ Follow these instructions:
 
 **2- Run the back-end server:**
 
-Type the following instructions in your bash:
+- Type the following instructions in your bash:
 
+
+`code`
 - cd YourPC/PathToTheClonedProject/Code/Softia_REST_Backend
 
 - npm install
+`code`
+- open the 
 
 - node server.js, now the server is listening on Port 8000
 
