@@ -2,7 +2,7 @@
 
 In this Repo, you can find the source code of this REST API (front-end: ReactJS, back-end: NodeJS/Express) with database files and a .exe file that is ready to run.
 
-To connect the machine to the database files, follow these instructions:
+**1- To connect the machine to the database files, follow these instructions:**
 
 - Install [Microsoft SQL Server Managment Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
@@ -18,7 +18,7 @@ To connect the machine to the database files, follow these instructions:
 
 - Refresh your databases, now you can access the FormationPlus DB
 
-To run the back-end server, run these instructions from your bash:
+**2- To run the back-end server, run these instructions from your bash:**
 
 - cd YourPC/PathToTheClonedProject/Code/Softia_REST_Backend
 
@@ -27,7 +27,7 @@ To run the back-end server, run these instructions from your bash:
 - node server.js, now the server is listening on localhost:8000
 
 
-To access the Web Application, run these instructions from your another bash:
+**3- To access the Web Application, run these instructions from your another bash:**
 
 - cd YourPC/PathToTheClonedProject/Code/Softia_REST_Frontend/formation-plus
 
