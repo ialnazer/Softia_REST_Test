@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+
+body {
+    height: 100vh;
+    background: #5b5f97;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.etudiant,
+.convention {
+    margin-bottom: 20px;
+    /* display: flex;
+    justify-content: space-between; */
+    width: 50%;
+}
+
+#convention {
+    display: inline;
+    margin-left: 40px;
+}
+
+textarea {
+    width: 50% !important;
+    height: 200px;
+}
+
+select {
+    margin-left: 20px;
+}
+
+button {
+    border: none;
+    text-decoration: none;
+    padding: 1rem;
+    color: inherit;
+    background: #b8b8d1;
+    font-family: inherit;
+    font-weight: 800;
+}
+
+#sending {
+    margin-top: 20px;
+    text-align: center;
+}
