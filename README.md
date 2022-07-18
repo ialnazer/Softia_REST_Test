@@ -1,6 +1,22 @@
 # FormationPlus
 
-In this Repo, you can find the source code of this REST API (front-end: ReactJS, back-end: NodeJS/Express) with database files.
+## General
+
+In this Repo, you can find the source code of this REST API with database files.
+
+- Front-end: ReactJS/Hooks
+
+- Back-end: NodeJS/Express
+
+- DB: Microsoft SQL
+
+## Functionality
+
+Access the students in the DB, prepare their certifications based on their courses and add these certifications to the DB.
+
+![main](https://res.cloudinary.com/ddjb3qdew/image/upload/v1658137661/Softia_REST_w6a4yz.png)
+
+## Setup
 
 Follow these instructions:
 
@@ -24,7 +40,7 @@ Follow these instructions:
 
 - Type the following instructions in your bash:
 
-  `cd YourPC/PathToTheClonedProject/Code/Softia_REST_Backend`
+  `cd PathToTheClonedProject/Code/Softia_REST_Backend`
 
   `npm install`
 
@@ -34,13 +50,13 @@ Follow these instructions:
 
   `node server.js`
 
-Now the server is listening on Port 8000
+Now the server is listening on Port 8000, it will be accessed by the frontend app
 
 **3- Run the frontend Web Application:**
 
 - Type the following instructions in another bash:
 
-  `cd YourPC/PathToTheClonedProject/Code/Softia_REST_Frontend/formation-plus`
+  `cd PathToTheClonedProject/Code/Softia_REST_Frontend/formation-plus`
 
   `npm install`
 
